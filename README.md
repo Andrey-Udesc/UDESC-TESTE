@@ -1,6 +1,8 @@
 # Projeto de teste da UDESC
 ##Introdução 
 Primeiro Projeto no **GITHUB** DA [Udesc](https://udesc.br) .
+dica:
+> "one man can change the **world**!"
 ##Instalação
 Para instalar o *software*, faça o *download* do projeto e siga os passos abaixo:
 1. Entro no diretório
